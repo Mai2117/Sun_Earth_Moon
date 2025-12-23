@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Scanning sources for module dependencies...
+  ModelsMain.cpp
+D:\graphics lecture2\Lecture5\Lecture5\GLProject\ModelsMain.cpp(130,33): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+D:\graphics lecture2\Lecture5\Lecture5\GLProject\ModelsMain.cpp(130,33): warning C4244:         with
+D:\graphics lecture2\Lecture5\Lecture5\GLProject\ModelsMain.cpp(130,33): warning C4244:         [
+D:\graphics lecture2\Lecture5\Lecture5\GLProject\ModelsMain.cpp(130,33): warning C4244:             _Rep=__int64
+D:\graphics lecture2\Lecture5\Lecture5\GLProject\ModelsMain.cpp(130,33): warning C4244:         ]
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GLProject.vcxproj -> D:\graphics lecture2\Lecture5\Lecture5\x64\Debug\Lecture5.exe
